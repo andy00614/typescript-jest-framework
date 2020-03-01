@@ -1,4 +1,5 @@
 // 写测试的
+// test
 import { sum, arr2Str } from "../index";
 
 test("测试reduce", () => {
