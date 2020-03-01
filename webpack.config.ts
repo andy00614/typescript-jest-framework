@@ -25,7 +25,8 @@ module.exports = {
   devServer: {
     contentBase: "./lib",
     hot: true,
-    port: 3000
+    port: 3000,
+    open: true
   },
   plugins: [
     new htmlWebpackPlugin({
