@@ -1,5 +1,6 @@
 // 写测试的
 // test
+// emoj
 import { sum, arr2Str } from "../index";
 
 test("测试reduce", () => {
